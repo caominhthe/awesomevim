@@ -10,6 +10,11 @@
     # Now with The Cao awesome hotkeys and new Bundle
 
 #### sh -c "\`curl -fsSL https://raw.githubusercontent.com/caominhthe/awesomevim/master/install.sh \`"
+**Few more things
+
+Have trouble with YouCompleteMe?
+cd into YCM directory under ~/.vim/plugged/
+$ ./install.py type it in & run it which compiles ...
 
 **Always be sure to run `rake update` after pulling to ensure plugins are updated**
 

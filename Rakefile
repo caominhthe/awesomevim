@@ -6,7 +6,7 @@ desc "Hook our dotfiles into system-standard positions."
 task :install => [:submodule_init, :submodules] do
   puts
   puts "======================================================"
-  puts "Welcome to YADR Installation."
+  puts "Welcome to The Cao version YADR Installation."
   puts "======================================================"
   puts
 
