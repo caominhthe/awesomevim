@@ -69,6 +69,10 @@ set expandtab
 " Auto indent pasted text
 nnoremap p p=`]<C-o>
 nnoremap P P=`]<C-o>
+nnoremap <D-J> :m .+1<CR>==
+nnoremap <D-K> :m .-2<CR>==
+vnoremap <D-J> :m '>+1<CR>gv=gv
+vnoremap <D-K> :m '<-2<CR>gv=gv
 
 filetype plugin on
 filetype indent on
