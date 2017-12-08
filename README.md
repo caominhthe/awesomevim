@@ -8,13 +8,15 @@
     # Yet Another Dotfile Repo v2.1
     # Now with Prezto and Vundle!
     # Now with The Cao awesome hotkeys and new Bundle
+    # Credit: trongrg/dotfiles
 
 #### sh -c "\`curl -fsSL https://raw.githubusercontent.com/caominhthe/awesomevim/master/install.sh \`"
 **Few more things
 
 **Have trouble with YouCompleteMe?
 * cd into YCM directory under ~/.vim/plugged/
-* $ ./install.py type it in & run it which compiles ...
+* $ ./install.py type it in & run it which compiles
+
 **Have problem with VimProc?
 * cd into vimproc under .yadr/vim/bundle/
 * Compile it with $ make
