@@ -13,8 +13,11 @@
 **Few more things
 
 Have trouble with YouCompleteMe?
-cd into YCM directory under ~/.vim/plugged/
-$ ./install.py type it in & run it which compiles ...
+* cd into YCM directory under ~/.vim/plugged/
+* $ ./install.py type it in & run it which compiles ...
+Have problem with VimProc?
+* cd into vimproc under .yadr/vim/bundle/
+* Compile it with $ make
 
 **Always be sure to run `rake update` after pulling to ensure plugins are updated**
 
