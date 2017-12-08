@@ -7,4 +7,5 @@ Bundle 'Shougo/vimproc'
 Bundle 'Quramy/tsuquyomi'
 Bundle 'leafgarland/typescript-vim'
 Plugin 'valloric/youcompleteme'
+Plugin 'octref/RootIgnore'
 
