@@ -6,6 +6,7 @@ Bundle 'editorconfig/editorconfig-vim'
 Bundle 'Shougo/vimproc'
 Bundle 'Quramy/tsuquyomi'
 Bundle 'leafgarland/typescript-vim'
+Plugin 'Xuyuanp/nerdtree-git-plugin'
 Plugin 'valloric/youcompleteme'
+Plugin 'tommcdo/vim-fugitive-blame-ext'
 Plugin 'octref/RootIgnore'
-
