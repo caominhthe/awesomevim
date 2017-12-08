@@ -12,10 +12,10 @@
 #### sh -c "\`curl -fsSL https://raw.githubusercontent.com/caominhthe/awesomevim/master/install.sh \`"
 **Few more things
 
-Have trouble with YouCompleteMe?
+**Have trouble with YouCompleteMe?
 * cd into YCM directory under ~/.vim/plugged/
 * $ ./install.py type it in & run it which compiles ...
-Have problem with VimProc?
+**Have problem with VimProc?
 * cd into vimproc under .yadr/vim/bundle/
 * Compile it with $ make
 
